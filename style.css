@@ -1,0 +1,33 @@
+h2
+{
+    color: red;
+}
+
+.btn btn-primary
+{
+    font-size: 30px;
+}
+
+.img-responsive
+{
+    height: 500px;
+    width: 500px;
+} 
+
+.test_image_and_result
+{
+    background-color: rgb(173, 168, 168);
+    
+}
+
+h5{
+    background-color: white;
+    color: red;
+    font-weight: bold;
+
+}
+
+.notice
+{
+    text-align: center;
+}
